@@ -1,0 +1,7 @@
+.MuiAppBar-colorPrimary {
+  background-color: #3d5a80 !important;
+}
+html, body {
+  height: 100%;
+  margin: 0;
+}
